@@ -8,7 +8,7 @@ Fake news detection helps prevent the spread of misinformation on the internet.
 🚀 Features
 - Detects fake and real news
 - Uses Machine Learning algorithms
-- Text preprocessing and NLP techniques
+- Text preprocessing technique
 - Easy to run and test
 🛠 Technologies Used
 - Python
