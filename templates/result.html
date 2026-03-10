@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Prediction Result</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Fake News Detection Result</h1>
+
+<p class="news-text">{{news}}</p>
+
+{% if prediction == "REAL" %}
+<div class="result real">
+    REAL NEWS
+</div>
+{% else %}
+<div class="result fake">
+    FAKE NEWS
+</div>
+{% endif %}
+
+<p class="confidence">Confidence: {{confidence}}%</p>
+
+<a class="btn" href="/">Check Another News</a>
+
+</div>
+
+</body>
+</html>

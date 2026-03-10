@@ -1,0 +1,8 @@
+2026-03-05 14:05:25.086112 | The Reserve Bank of India increased the repo rate to control inflation. | FAKE | 77.71%
+2026-03-05 15:00:59.837390 | nasa said the world will blackout for 3 days
+ | REAL | 95.91%
+2026-03-05 15:01:34.301302 | nasa said world will blackout for 3 days
+ | REAL | 96.71%
+2026-03-05 15:03:36.190693 | NASA confirmed the Earth will experience 3 days of darkness next month. | FAKE | 66.55%
+2026-03-05 15:15:16.988061 | NASA confirmed the Earth will experience 3 days of darkness next month. | FAKE | 66.55%
+2026-03-05 15:16:00.014508 | nasa said the earth will blackout for 3 days | REAL | 82.32%
