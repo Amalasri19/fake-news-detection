@@ -5,16 +5,19 @@ This project detects whether a news article is **real or fake** using Machine Le
 The model analyzes the text of news articles and predicts their authenticity.
 
 Fake news detection helps prevent the spread of misinformation on the internet.
+
 🚀 Features
 - Detects fake and real news
 - Uses Machine Learning algorithms
 - Text preprocessing technique
 - Easy to run and test
+  
 🛠 Technologies Used
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
+  
 📂 Project Structure
 - trainmodule.py
 - app.py
@@ -27,10 +30,12 @@ Fake news detection helps prevent the spread of misinformation on the internet.
 - prediction_log.txt
 - vectorizer.pkl
 - style.css
+  
 📊 Output
 The model predicts whether the given news is:
   Real News
   Fake News
+  
 🎯 Future Improvements
 - Add a web interface using Flask
 - Improve accuracy with deep learning
